@@ -1,0 +1,86 @@
+.Brands-main{
+    padding-top: 82px;
+    padding-bottom: 40px;
+}
+
+ .Brands-text h3 {
+    font-size: 38px;
+    line-height: 130%;
+    max-width: 255px;
+  }
+ .sub-text {
+    margin-top: 15px;
+    margin-bottom: 7px;
+}
+.Brands-row{
+display: flex;
+flex-direction: row;
+width: 100%;
+}
+.Brands-col{
+    display: flex;
+flex-direction: column;
+width: 100%;
+}
+.container{
+    width: 100%;
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;
+}
+#Brands-box-1{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 27px 29px;
+    min-height: 208px;
+    background: #fff;
+    border: 1px solid #fff;
+    border-radius: 2px;
+    margin-bottom: 40px;
+    width: 100%;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#Brands-box-1 p{
+    color: #54658D;
+}
+.Brands-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 27px 29px;
+    min-height: 208px;
+    background: #fff;
+    border: 1px solid #e7edff;
+    border-radius: 2px;
+    margin-bottom: 40px;
+    width: 100%;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.Brands-box-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 35px;
+}
+.Brands-box-content{
+    display: flex;
+    flex-direction: column;
+}
+.Brands-box-para{
+    font-size: 14px;
+    line-height: 165%;
+    color: #8a9ab5;
+}
+.Brands-box-para{
+    padding-top: 30px;
+}
+
+
+.section-title{
+
+}

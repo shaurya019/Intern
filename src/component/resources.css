@@ -1,0 +1,85 @@
+.Resources{
+    padding-top: 105px;
+    padding-bottom: 70px;
+}
+.Resources-container{
+
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    
+}
+.Resources-Head h4{
+    font-size: 38px;
+    line-height: 130%;
+max-width: 500px;
+}
+.Resources-box{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid #fff;
+}
+.box-1{
+    display: flex;
+    flex-direction: row;
+}
+.box-2{
+    display: flex;
+    flex-direction: row;
+}
+.box-iner-logo{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    background: 0 0;
+}
+.logo-list{
+    position: relative;
+    border: 1px solid #e7edff;
+    flex: 1 0 20%;
+    padding-bottom: 20%;
+    padding-bottom: 0;
+    width: 285px;
+    height: 194px;
+}
+.in-logo{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+}
+
+.in-logo img{
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+.col-12{
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.logo-text{
+    font-size: 19px;
+    color: silver;
+    font-weight: 700;
+}
+.in-logo .text .h2 {
+    font-size: 44px;
+    line-height: 48px;
+    color: #3c61e2;
+    text-align: center;
+}

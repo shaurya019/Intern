@@ -1,0 +1,98 @@
+img {
+    max-width: 100%;
+}
+.Cases{
+  padding-bottom: 300px;
+}
+.container{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.Cases h2 {
+  font-size: 38px;
+  line-height: 130%;
+  margin-bottom: 50px;
+}
+.case {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 80px;
+}
+.case-box {
+  border: 2px solid #E8F6EF;
+  padding: 0px 5px;
+  margin: 0px 10px;
+}
+
+.case-box-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 130px;
+  object-fit: contain;
+  margin-top: -36px;
+}
+.case-box:hover {
+background-color: #f0f0f0;
+}
+.case-box div p {
+  min-height: 80px;
+  line-height: 26px;
+  font-size: 22px;
+  font-family: sans-serif,initial;
+  color: #2D344D;
+  margin-top: 28px;
+  font-weight: 600;
+  text-align: center;
+}
+.cases-logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 29%;
+}
+.cases-logo img{
+    height: 50px;
+    width: 138px;
+}
+.para-logo{
+    padding: 36px;
+}
+.btn{
+    border: 2px solid #FFFF;
+    border-radius: 8px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.btn a{
+  display: flex !important;
+    min-width: 255px;
+    background: #3c61e2;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+    padding: 19px 0 17px;
+    border: 1px solid #3c61e2;
+}
+#box-1{
+margin-left: 100px;
+}
+#box-3{
+    margin-right: 100px;   
+}
+.col-12{
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}

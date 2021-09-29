@@ -1,0 +1,19 @@
+.Leader-title{
+    padding-top: 105px;
+    padding-bottom: 70px;
+}
+.container h3{
+    font-size: 38px;
+    line-height: 130%;
+}
+
+.leader-main{
+    padding-top: 110px;
+    border-top: 0;
+}
+/* .leader-row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+} */
